@@ -2,7 +2,7 @@
 
 **Solutions Architect & AI Engineer — Oracle · Rust · AI, at production scale.**
 
-I architect end-to-end solutions at billions-of-records scale across telecom, billing, and finance — from Oracle data platforms to the customer-facing products on top — and put large language models into production, internal and customer-facing. I also build the open-source proof of it.
+I architect end-to-end solutions at billions-of-records scale across telecom, billing, and finance — from Oracle data platforms to the customer-facing products on top — and put large language models into production, internal and customer-facing — vendor-neutral, cloud or self-hosted. I also build the open-source proof of it.
 
 🌐 **[durakovic.ai](https://durakovic.ai)** · ✉️ hello@durakovic.ai · 𝕏 [@itsmuhdur](https://x.com/itsmuhdur)
 *Dipl.-Ing. · M.Sc. — TU Graz · Graz, Austria*
