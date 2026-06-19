@@ -20,4 +20,4 @@ Software that's fast, provably correct, and trustworthy in production — and AI
 
 ### Work with me
 
-Oracle change-impact audits · systems modernization · AI on your data → **[durakovic.ai](https://durakovic.ai)**
+Databases at scale · systems modernization · AI in production → **[durakovic.ai](https://durakovic.ai)**
